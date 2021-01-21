@@ -1,3 +1,0 @@
-Hello this is file one of the Git
-Hello this is file Two of the Git
-Hello this is file Three of the Git 
